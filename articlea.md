@@ -3,8 +3,6 @@ Python is a powerful, high-level programming language that is widely used in man
 
 ![python logo](python-logo@2x.png)
 
-Lorem ipsum dolor sit amet
-
 ## Why Python is Popular
 Python is a popular programming language for many reasons. Some of the key features that make it so attractive to programmers include:
 
