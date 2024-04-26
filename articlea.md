@@ -1,6 +1,8 @@
 # Python
 Python is a powerful, high-level programming language that is widely used in many different fields, including web development, data science, artificial intelligence, and more. It is known for its simple, easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article, we will explore some of the key features of Python and why it is such a popular choice for programmers.
 
+![python logo](python-logo@2x.png)
+
 ## Why Python is Popular
 Python is a popular programming language for many reasons. Some of the key features that make it so attractive to programmers include:
 
